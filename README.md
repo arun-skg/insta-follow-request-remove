@@ -1,10 +1,10 @@
 # insta-follow-request-remove
 
-- open below link
+- Open below link
 
 https://www.instagram.com/accounts/access_tool/current_follow_requests
 
-- Past below link 
+- Past below code in browser console 
 ```
 var i = 0;
 var unfollow = "global";
