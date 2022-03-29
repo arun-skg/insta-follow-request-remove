@@ -1,4 +1,4 @@
-# insta-follow-request-remove
+# insta-follow-request-remove-script
 
 - Open below link
 
